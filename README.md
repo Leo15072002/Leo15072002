@@ -29,9 +29,9 @@ Computer Science student at UNRC interested in backend development, low-level pr
 ## GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leo15072002&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leo15072002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## Extra
