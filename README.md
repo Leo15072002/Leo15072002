@@ -6,7 +6,7 @@ Computer Science student at UNRC.
 ## Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,mysql,postgres,sqlite,html,haskell" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,mysql,postgres,sqlite,html,haskell,prolog,pascal,r,obsidian" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
