@@ -6,6 +6,4 @@
 
 ## Tecnologías
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,brawlstars" />
-</p>
+<img src="https://cdn.simpleicons.org/brawlstars" height="48" />
