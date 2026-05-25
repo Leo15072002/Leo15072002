@@ -2,8 +2,8 @@
 
 Computer Science student at UNRC interested in backend development, low-level programming and software engineering.
 
-## Languages & Technologies
 ---
+## Languages & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,mysql,postgres,sqlite,html" />
@@ -19,8 +19,8 @@ Computer Science student at UNRC interested in backend development, low-level pr
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-## Interests
 ---
+## Interests
 
 - Backend Development
 - Operating Systems
@@ -28,16 +28,14 @@ Computer Science student at UNRC interested in backend development, low-level pr
 - Databases
 - Web Development
 
+---
 ## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Leo15072002&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leo15072002&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Extra
----
 
 ![Brawl Stars](https://img.shields.io/badge/Brawl%20Stars-F8D247?style=for-the-badge&logo=supercell&logoColor=black)
