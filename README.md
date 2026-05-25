@@ -1,5 +1,5 @@
 # Leonardo Campos
-Computer Science student at UNRC interested in backend development, low-level programming and software engineering.
+Computer Science student at UNRC.
 
 ---
 
@@ -32,12 +32,7 @@ Computer Science student at UNRC interested in backend development, low-level pr
 
 ## GitHub Stats
 
-<!-- Opción 1: github-readme-stats con cache busting y parámetro de v -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Leo15072002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2)
-
-<!-- Opción 2 (descomentar si lo de arriba sigue sin funcionar): usar streak stats -->
-<!-- ![Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true) -->
+![Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true) 
 
 <!-- Opción 3 (descomentar si querés una alternativa a top langs): -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) -->
