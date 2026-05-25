@@ -6,4 +6,4 @@
 
 ## Tecnologías
 
-<img src="https://cdn.simpleicons.org/brawlstars" height="48" />
+<img src="https://static.wikia.nocookie.net/logopedia/images/2/21/Brawl_Stars_icon.png" height="48" />
