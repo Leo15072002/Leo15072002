@@ -6,4 +6,4 @@
 
 ## Tecnologías
 
-<img src="https://static.wikia.nocookie.net/logopedia/images/2/21/Brawl_Stars_icon.png" height="48" />
+![Brawl Stars](https://img.shields.io/badge/Brawl%20Stars-F8D247?style=for-the-badge&logo=supercell&logoColor=black)
