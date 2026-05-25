@@ -34,8 +34,10 @@ Computer Science student at UNRC.
 
 <!-- ![Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo15072002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo15072002&theme=tokyonight)
 ---
 
 ## Extra
