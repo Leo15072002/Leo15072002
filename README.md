@@ -29,17 +29,3 @@ Computer Science student at UNRC.
 - Web Development
 
 ---
-
-## GitHub Stats
-
-<!-- ![Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true) -->
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Leo15072002&theme=tokyonight&hide_border=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo15072002&theme=tokyonight)
----
-
-## Extra
-
-![Brawl Stars](https://img.shields.io/badge/Brawl%20Stars-F8D247?style=for-the-badge&logo=supercell&logoColor=black)
